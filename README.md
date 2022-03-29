@@ -1,10 +1,7 @@
 # ft-printf
 42 cursus ft_printf project mandatory.
 
-</p>
-<p align="center">  
-<img src ="![Gif de texte simple en noir et blanc](https://user-images.githubusercontent.com/94490393/160689612-7ecdc657-6efe-421b-af8b-368ab2543c59.gif)">
-</p>
+![Gif de texte simple en noir et blanc](https://user-images.githubusercontent.com/94490393/160689612-7ecdc657-6efe-421b-af8b-368ab2543c59.gif)
 
 # Intro
 
